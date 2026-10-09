@@ -129,4 +129,4 @@ Power BI, DAX, Python (pandas, NumPy), MySQL (optional)
 
 **Maitreyee** - Power BI and Full Stack Developer (Laravel, MySQL, Vue.js)
 
-LinkedIn: *add your profile link*
+LinkedIn: www.linkedin.com/in/maitreyee-dhar-9a6661ab
