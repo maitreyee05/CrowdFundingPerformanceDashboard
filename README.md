@@ -117,7 +117,7 @@ Options for the script: `--sample` (campaigns with pledge detail, default 5000),
 
 ## Tools
 
-Power BI, DAX, Python (pandas, NumPy), MySQL (optional)
+Power BI, DAX, MySQL (optional)
 
 ## Roadmap
 
