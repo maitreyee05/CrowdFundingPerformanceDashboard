@@ -1,0 +1,171 @@
+category_key,main_category,subcategory
+1,Art,Art
+2,Art,Ceramics
+3,Art,Conceptual Art
+4,Art,Digital Art
+5,Art,Illustration
+6,Art,Installations
+7,Art,Mixed Media
+8,Art,Painting
+9,Art,Performance Art
+10,Art,Public Art
+11,Art,Sculpture
+12,Art,Textiles
+13,Art,Video Art
+14,Comics,Anthologies
+15,Comics,Comic Books
+16,Comics,Comics
+17,Comics,Events
+18,Comics,Graphic Novels
+19,Comics,Webcomics
+20,Crafts,Candles
+21,Crafts,Crafts
+22,Crafts,Crochet
+23,Crafts,DIY
+24,Crafts,Embroidery
+25,Crafts,Glass
+26,Crafts,Knitting
+27,Crafts,Letterpress
+28,Crafts,Pottery
+29,Crafts,Printing
+30,Crafts,Quilts
+31,Crafts,Stationery
+32,Crafts,Taxidermy
+33,Crafts,Weaving
+34,Crafts,Woodworking
+35,Dance,Dance
+36,Dance,Performances
+37,Dance,Residencies
+38,Dance,Spaces
+39,Dance,Workshops
+40,Design,Architecture
+41,Design,Civic Design
+42,Design,Design
+43,Design,Graphic Design
+44,Design,Interactive Design
+45,Design,Product Design
+46,Design,Typography
+47,Fashion,Accessories
+48,Fashion,Apparel
+49,Fashion,Childrenswear
+50,Fashion,Couture
+51,Fashion,Fashion
+52,Fashion,Footwear
+53,Fashion,Jewelry
+54,Fashion,Pet Fashion
+55,Fashion,Ready-to-wear
+56,Film & Video,Action
+57,Film & Video,Animation
+58,Film & Video,Comedy
+59,Film & Video,Documentary
+60,Film & Video,Drama
+61,Film & Video,Experimental
+62,Film & Video,Family
+63,Film & Video,Fantasy
+64,Film & Video,Festivals
+65,Film & Video,Film & Video
+66,Film & Video,Horror
+67,Film & Video,Movie Theaters
+68,Film & Video,Music Videos
+69,Film & Video,Narrative Film
+70,Film & Video,Romance
+71,Film & Video,Science Fiction
+72,Film & Video,Shorts
+73,Film & Video,Television
+74,Film & Video,Thrillers
+75,Film & Video,Webseries
+76,Food,Bacon
+77,Food,Community Gardens
+78,Food,Cookbooks
+79,Food,Drinks
+80,Food,Events
+81,Food,Farmer's Markets
+82,Food,Farms
+83,Food,Food
+84,Food,Food Trucks
+85,Food,Restaurants
+86,Food,Small Batch
+87,Food,Spaces
+88,Food,Vegan
+89,Games,Games
+90,Games,Gaming Hardware
+91,Games,Live Games
+92,Games,Mobile Games
+93,Games,Playing Cards
+94,Games,Puzzles
+95,Games,Tabletop Games
+96,Games,Video Games
+97,Journalism,Audio
+98,Journalism,Journalism
+99,Journalism,Photo
+100,Journalism,Print
+101,Journalism,Video
+102,Journalism,Web
+103,Music,Blues
+104,Music,Chiptune
+105,Music,Classical Music
+106,Music,Comedy
+107,Music,Country & Folk
+108,Music,Electronic Music
+109,Music,Faith
+110,Music,Hip-Hop
+111,Music,Indie Rock
+112,Music,Jazz
+113,Music,Kids
+114,Music,Latin
+115,Music,Metal
+116,Music,Music
+117,Music,Pop
+118,Music,Punk
+119,Music,R&B
+120,Music,Rock
+121,Music,World Music
+122,Photography,Animals
+123,Photography,Fine Art
+124,Photography,Nature
+125,Photography,People
+126,Photography,Photobooks
+127,Photography,Photography
+128,Photography,Places
+129,Publishing,Academic
+130,Publishing,Anthologies
+131,Publishing,Art Books
+132,Publishing,Calendars
+133,Publishing,Children's Books
+134,Publishing,Comedy
+135,Publishing,Fiction
+136,Publishing,Letterpress
+137,Publishing,Literary Journals
+138,Publishing,Literary Spaces
+139,Publishing,Nonfiction
+140,Publishing,Periodicals
+141,Publishing,Poetry
+142,Publishing,Publishing
+143,Publishing,Radio & Podcasts
+144,Publishing,Translations
+145,Publishing,Young Adult
+146,Publishing,Zines
+147,Technology,3D Printing
+148,Technology,Apps
+149,Technology,Camera Equipment
+150,Technology,DIY Electronics
+151,Technology,Fabrication Tools
+152,Technology,Flight
+153,Technology,Gadgets
+154,Technology,Hardware
+155,Technology,Makerspaces
+156,Technology,Robots
+157,Technology,Software
+158,Technology,Sound
+159,Technology,Space Exploration
+160,Technology,Technology
+161,Technology,Wearables
+162,Technology,Web
+163,Theater,Comedy
+164,Theater,Experimental
+165,Theater,Festivals
+166,Theater,Immersive
+167,Theater,Musical
+168,Theater,Plays
+169,Theater,Spaces
+170,Theater,Theater
