@@ -97,16 +97,6 @@ The raw Kaggle file (58 MB) is not stored in this repository. Download it from K
 ## How to reproduce
 
 1. Download `ks-projects-201801.csv` from Kaggle and place it in `data/`.
-2. Install the libraries: `pip install pandas numpy`
-3. Generate the tables:
-   ```
-   python scripts/generate_data.py --input data/ks-projects-201801.csv --outdir data/processed
-   ```
-4. (Optional) Load the tables into MySQL by editing the file paths in `sql/schema.sql` and running it.
-5. Open the `.pbix` file in Power BI Desktop, go to **Transform data > Data source settings**, and point the sources to `data/processed/`.
-6. Click **Refresh**.
-
-Options for the script: `--sample` (campaigns with pledge detail, default 5000), `--max-backers` (default 500) and `--seed` (default 42, for repeatable output).
 
 ## Limitations
 
