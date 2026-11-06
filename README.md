@@ -92,11 +92,6 @@ crowdfunding-campaign-performance-dashboard/
     └── linkedin_carousel.pdf
 ```
 
-The raw Kaggle file (58 MB) is not stored in this repository. Download it from Kaggle.
-
-## How to reproduce
-
-1. Download `ks-projects-201801.csv` from Kaggle and place it in `data/`.
 
 ## Limitations
 
